@@ -1,5 +1,5 @@
 current directory: /home/sxntana/Documents/coding/GITHUB/bxffour.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20221102-58196-x71q0l.rb extconf.rb
+/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20221102-63227-vsj3bc.rb extconf.rb
 creating Makefile
 
 current directory: /home/sxntana/Documents/coding/GITHUB/bxffour.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -16,6 +16,6 @@ gcc -shared -o ruby_http_parser.so ruby_http_parser.o ryah_http_parser.o -L. -L/
 
 current directory: /home/sxntana/Documents/coding/GITHUB/bxffour.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= install
-/usr/bin/mkdir -p . ./.gem.20221102-58196-khuydv
+/usr/bin/mkdir -p . ./.gem.20221102-63227-lm7wpq
 exit > .sitearchdir.time
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20221102-58196-khuydv
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20221102-63227-lm7wpq
