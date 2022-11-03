@@ -27,11 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _bxffour
 github_username:  bxffour
 
-#social_link: twitter
-#social_username: bxffour
 # Build settings
-theme: vonge
-#remote_theme: broccolini/swiss
+theme: minima
 plugins:
   - jekyll-feed
 
