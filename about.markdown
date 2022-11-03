@@ -1,3 +1,8 @@
+---
+layout: page
+title: about
+permalink: /about/
+---
 <h1 align="center">
   <b>Nana Kwadwo</b>
 </h1>
