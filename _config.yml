@@ -2,19 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-<<<<<<< HEAD
-title: "Bxffour's Blog"
-email: agyemang.nana.b@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This blog contains updates on my tech journey and tutorials.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _bxffour
-github_username:  bxffour
-
-# Build settings
-theme: minima
-=======
 # Name of your site (displayed in the header)
 name: Reverie
 
@@ -94,19 +81,13 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
->>>>>>> a94621a (update: revamped the whole blog)
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
 
-<<<<<<< HEAD
-#theme_color: black
-markdown: kramdown
-=======
 include: ['_pages']
->>>>>>> a94621a (update: revamped the whole blog)
 
 paginate: 6
 paginate_path: /page:num/
