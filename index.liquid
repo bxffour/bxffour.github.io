@@ -1,0 +1,22 @@
+---
+layout: default.html
+---
+
+<div class="posts">
+  {% for post in collections.posts.pages %}
+    <article class="post">
+      <a href="{{ post.permalink }}">
+        <h1>{{ post.title }}</h1>
+
+        <div>
+          <p class="post_date">{{ post.published_date | date: "%B %e, %Y" }}</p>
+        </div>
+      </a>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ post.permalink }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
