@@ -28,7 +28,7 @@ twitter_username: _bxffour
 github_username:  bxffour
 
 # Build settings
-theme: minima
+theme: vonge
 plugins:
   - jekyll-feed
 
