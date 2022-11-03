@@ -24,13 +24,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog contains updates on my tech journey and tutorials.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _bxffour
-github_username:  bxffour
+# twitter_username: _bxffour
+# github_username:  bxffour
 
+social_link: twitter
+social_username: bxffour
 # Build settings
-theme: vonge
+# theme: vonge
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
+
+theme_color: black
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
