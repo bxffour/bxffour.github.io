@@ -1,13 +1,13 @@
-site: Gesko
-title: Gesko
+site: bxffout
+title: bxffour
 greetings: Hi 👋
 description: >-
   just a minimalist, personal blog
 lang: en-US
 timezone:  Europe/Rome
-repo: https://github.com/DavideBri/Gesko # site repo [optional]
+#repo: https://github.com/DavideBri/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: powex # replace with your disqus shortname
+#discus-identifier: powex # replace with your disqus shortname
 
 author:
   name: bxffour
@@ -24,7 +24,7 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 # URL settings
 url: "https://bxffour.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "/bxffour.github.io" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
-permalink: pretty
+# permalink:
 
 # local
 # url: "http://localhost:4000" # 
