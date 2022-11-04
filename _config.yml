@@ -29,6 +29,20 @@ url: "https://bxffour.github.io" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# bio
+header: Louie
+desc: >
+  A Jekyll theme (that looks awesome). Louie is free, lightweight,
+  and customizable as a blog, archive, or portfolio.
+# posts
+date_format: "%Y"
+post_title: Story
+post_date: Year
+post_cat: Genre
+
+# post detail
+prev-next: true
+
 # Build settings
 # theme: louie
 plugins:
