@@ -3,6 +3,8 @@ languageCode: en-us
 title: "Bxffour's Blog"
 theme: mini
 
+publishdir: .
+
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
 defaultContentLanguage: en
 
