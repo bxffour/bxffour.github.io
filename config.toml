@@ -1,0 +1,5 @@
+baseURL = 'https://bxffour.github.io/'
+languageCode = 'en-us'
+title = "Bxffour's Blog"
+theme = 'mini'
+publishdir = "."
