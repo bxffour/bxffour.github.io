@@ -8,27 +8,25 @@ publishdir = "./docs"
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
   centerTheme = true
-  # set a custom favicon (default is a `themeColor` square)
-  favicon = "favicon.ico"
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
+  # autoCover = true
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "img/favicon/favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -72,7 +70,29 @@ publishdir = "./docs"
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+      # [[languages.en.menu.main]]
+      #   identifier = "showcase"
+      #   name = "Showcase"
+      #   url = "/showcase"
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "_bxffour"
+  site = ""      
+
+[module]
+  # In case you would like to make changes to the theme and keep it locally in you repository,
+  # uncomment the line below (and correct the local path if necessary).
+  # --
+  # replacements = "github.com/panr/hugo-theme-terminal -> themes/terminal"
+[[module.imports]]
+  path = 'github.com/panr/hugo-theme-terminal'
+
+[[module.mounts]]
+  source = 'static'
+  target = 'static'
+[[module.mounts]]
+  source = 'assets'
+  target = 'assets'
