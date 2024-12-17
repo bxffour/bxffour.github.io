@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://blog.bxffour.com/'
-title = 'Hugo Book'
+title = '6e616e61'
 theme = 'hugo-book'
 
 # Book configuration
@@ -33,10 +33,10 @@ name = "Github"
 url = "https://github.com/bxffour"
 weight = 10
 
-[[menu.after]]
-name = "Some other thing"
-url = "https://github.com/bxffour"
-weight = 20
+#[[menu.after]]
+#name = "Some other thing"
+#url = "https://github.com/bxffour"
+#weight = 20
 
 [params]
 # (Optional, default light) Sets color theme: light, dark or auto.
