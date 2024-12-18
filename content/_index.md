@@ -3,7 +3,7 @@ title: Introduction
 type: docs
 ---
 
-# Welcome to My Blog
+# Welcome
 
 Hi, I'm Nana Baffour, a Site Reliability Engineer with a passion for understanding how the technologies that power the world really work. This blog is my journal as I embark on a journey to move past the surface and explore the depths of the systems and tools that run everything around us.
 
