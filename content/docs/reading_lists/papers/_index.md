@@ -23,6 +23,7 @@ A catalogue of papers I have read or looking to read, with links to their source
 - [Exploiting Cloud Object Storage for High-Performance Analytics](https://www.vldb.org/pvldb/vol16/p2769-durner.pdf)
 - [SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
 - [OLTP Through the Looking Glass, and What We Found There](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf)
+- [ROSE: Robust Caches for Amazon Product Search](https://drive.google.com/file/d/13YwkeCc1XwnRVDVkcuE7MKt2r7aqld24/view)
 
 ### MIT 6.824 (Distributed Systems Spring 2024)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
