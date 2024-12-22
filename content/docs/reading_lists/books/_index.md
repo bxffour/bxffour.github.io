@@ -14,3 +14,4 @@ A catalogue of books I have read or looking to read, with links to their sources
 ## Reading List
 - [Designing Data Intensive Applications - Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) ⏳
 - [Systems Performance - Brendan Gregg](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
+- [PostgreSQL 14 Internals](https://edu.postgrespro.com/postgresql_internals-14_en.pdf)

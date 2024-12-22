@@ -13,13 +13,16 @@ A catalogue of papers I have read or looking to read, with links to their source
 
 ## Reading List
 ### Concurrency and Memory
-
 - [Why Events Are A Bad Idea (for high-concurrency servers)](https://www.usenix.org/legacy/events/hotos03/tech/full_papers/vonbehren/vonbehren.pdf)
 - [What every systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
-### Databases
+### Databases & Storage
 - [What If: Causal Analysis with Graph Databases](https://arxiv.org/pdf/2412.13965)
+- [An Overview of Query Optimization in Relational Systems](https://web.stanford.edu/class/cs345d-01/rl/chaudhuri98.pdf)
+- [Exploiting Cloud Object Storage for High-Performance Analytics](https://www.vldb.org/pvldb/vol16/p2769-durner.pdf)
+- [SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
+- [OLTP Through the Looking Glass, and What We Found There](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf)
 
 ### MIT 6.824 (Distributed Systems Spring 2024)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
@@ -51,3 +54,14 @@ A catalogue of papers I have read or looking to read, with links to their source
 
 ### Distributed Systems
 - [Fast Paxos](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-112.pdf)
+- [ARC: Analysis of Raft Consensus](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-857.pdf)
+
+### Systems Research
+- [Are Unikernels Ready for Serverless on the Edge?](https://arxiv.org/pdf/2403.00515v1)
+- [Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads](https://www.usenix.org/system/files/nsdi19-ousterhout.pdf)
+
+### System Design
+- [Zanzibar: Google’s Consistent, Global Authorization System](https://storage.googleapis.com/gweb-research2023-media/pubtools/5068.pdf)
+
+### Programming Language Design
+- [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
