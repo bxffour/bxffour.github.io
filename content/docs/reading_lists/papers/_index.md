@@ -48,3 +48,6 @@ A catalogue of papers I have read or looking to read, with links to their source
 - [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://nil.csail.mit.edu/6.824/2020/papers/cops.pdf)
 - [Blockstack: A New Internet for Decentralized Applications](http://nil.csail.mit.edu/6.824/2020/papers/blockstack-2017.pdf)
 - [Experiences with a Distributed, Scalable, Methodological File System: AnalogicFS](http://nil.csail.mit.edu/6.824/2020/papers/katabi-analogicfs.pdf)
+
+### Distributed Systems
+- [Fast Paxos](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-112.pdf)
