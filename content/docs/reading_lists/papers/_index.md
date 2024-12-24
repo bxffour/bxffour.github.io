@@ -56,6 +56,20 @@ A catalogue of papers I have read or looking to read, with links to their source
 ### Distributed Systems
 - [Fast Paxos](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-112.pdf)
 - [ARC: Analysis of Raft Consensus](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-857.pdf)
+- [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+- [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+- [Paxos Made Live - An Engineering Perspective](https://static.googleusercontent.com/media/research.google.com/en/us/archive/paxos_made_live.pdf)
+- [How to Build a Highly Available System Using Consensus](http://bwl-website.s3-website.us-east-2.amazonaws.com/58-Consensus/Acrobat.pdf)
+- [Distributed Computing Economics](https://arxiv.org/pdf/cs/0403019.pdf)
+- [Rules of Thumb in Data Engineering](https://www.microsoft.com/en-us/research/publication/rules-of-thumb-in-data-engineering/)
+- [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+- [Impossibility of Distributed Consensus with One Faulty Process](https://doi.acm.org/10.1145/3149.214121)
+- [Unreliable Failure Detectors for Reliable Distributed Systems](https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf)
+- [Lamport Clocks](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)
+- [Lazy Replication: Exploiting the Semantics of Distributed Services](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.469)
+- [Scalable Agreement - Towards Ordering as a Service](https://www.usenix.org/legacy/event/hotdep10/tech/full_papers/Kapritsos.pdf)
+- [Scalable Eventually Consistent Counters over Unreliable Networks](https://arxiv.org/pdf/1307.3207v1.pdf)
 
 ### Systems Research
 - [Are Unikernels Ready for Serverless on the Edge?](https://arxiv.org/pdf/2403.00515v1)
@@ -63,6 +77,23 @@ A catalogue of papers I have read or looking to read, with links to their source
 
 ### System Design
 - [Zanzibar: Google’s Consistent, Global Authorization System](https://storage.googleapis.com/gweb-research2023-media/pubtools/5068.pdf)
+- [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
+- [Data on the Outside versus Data on the Inside](https://www.cidrdb.org/cidr2005/papers/P12.pdf)
 
 ### Programming Language Design
 - [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)
+
+### Scratch
+- [Building on Quicksand](https://arxiv.org/abs/0909.1788)
+
+### Google
+- [MapReduce](https://research.google/pubs/pub62/)
+- [Chubby Lock Manager](https://research.google/pubs/pub27897/)
+- [Google File System](https://research.google/pubs/pub51/)
+- [BigTable](https://research.google/pubs/pub27898/)
+- [Data Management for Internet-Scale Single-Sign-On](https://www.usenix.org/legacy/event/worlds06/tech/prelim_papers/perl/perl.pdf)
+- [Dremel: Interactive Analysis of Web-Scale Datasets](https://research.google/pubs/pub36632/)
+- [Large-scale Incremental Processing Using Distributed Transactions and Notifications](https://research.google/pubs/pub36726/)
+- [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)
+- [Photon](https://research.google/pubs/pub41318/)
+- [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](https://research.google/pubs/pub42851/)

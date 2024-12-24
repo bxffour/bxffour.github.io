@@ -35,6 +35,9 @@ A catalogue of blogs I have read or looking to read, with links to their sources
 - [How the Bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 - [An overview of Cloudflare's logging pipeline](https://blog.cloudflare.com/an-overview-of-cloudflares-logging-pipeline/)
 - [Building a Large-scale Distributed Storage System Based on Raft](https://tikv.org/blog/building-distributed-storage-system-on-raft/)
+- [The Perils of Good Abstractions](https://web.archive.org/web/20181006111158/http://www.addsimplicity.com/adding_simplicity_an_engi/2006/12/the_perils_of_g.html)
+- [Chaotic Perspectives](https://web.archive.org/web/20180821164750/http://www.addsimplicity.com/adding_simplicity_an_engi/2007/05/chaotic_perspec.html)
+- [SOA and Newton's Universe](https://web.archive.org/web/20190719121913/https://blogs.msdn.microsoft.com/pathelland/2007/05/20/soa-and-newtons-universe/)
 ### Databases and Storage
 - [Database Internals: Working with IO](https://www.scylladb.com/2024/11/25/database-internals-working-with-io/)
 - [Data Corruption Bug in OpenZFS](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
