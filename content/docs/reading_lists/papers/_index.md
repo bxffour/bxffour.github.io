@@ -31,7 +31,7 @@ A catalogue of papers I have read or looking to read, with links to their source
 - [In Search of an Understandable Consensus Algorithm (Extended Version)](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf)
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
 - [Grove: a Separation-Logic Library for Verifying Distributed Systems](https://pdos.csail.mit.edu/6.824/papers/grove.pdf)
-- [Spanner: Google’s Globally-Distributed Database](https://pdos.csail.mit.edu/6.824/papers/spanner.pdf)
+- [Spanner: Google’s Globally-Distributed Database](https://pdos.csail.mit.edu/6.824/papers/spanner.pdf) ⏳
 - [Chardonnay: Fast and General Datacenter Transactions for On-Disk Databases](https://pdos.csail.mit.edu/6.824/papers/osdi23-eldeeb.pdf)
 - [No compromises: distributed transactions with consistency, availability, and performance](https://pdos.csail.mit.edu/6.824/papers/farm-2015.pdf)
 - [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://pdos.csail.mit.edu/6.824/papers/atc22-dynamodb.pdf)
